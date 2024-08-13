@@ -5,7 +5,10 @@ import cv2
 import base64
 import sys
 import json
+import platform
 
+#if platform.system() == 'Windows':
+#   from waitress import serve
 
 # Define App
 app = Flask(__name__,template_folder="templates")
