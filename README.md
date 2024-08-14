@@ -1,9 +1,17 @@
-# flask_app_opencv
-Assignment: Deploy Web App
+# **flask_app_opencv**
 
-Nessesary use Unix OS!!!
+<img src="notebooks/img/OpenCV_logo.png" alt="OpenCV logo" style="width: 200px;"/>
 
-***Development***:
+## ***Assignment of [OpenCV University course](https://opencv.org/university/computer-vision-and-deep-learning-applications/)* : Deploy Web App**
+
+
+<img src="notebooks/img/SVmetalLogo.png" alt="SVmetal logo" style="width: 200px;"/>
+
+>Note: ### *This project was created with the support of [SVmetal spol. sr. o.](https://www.svmetal.cz/cs)*
+
+
+## ***Development***:
+For Unix OS!!!
 
 ```cmd
 flask --app web_app run
@@ -19,3 +27,7 @@ gunicorn --config gunicorn_config.py web_app:app
 For window use waitress!!!
 
 > pip install waitress
+
+## ***Deploy by Koyeb***
+
+[Documentation](#)
