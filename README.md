@@ -6,20 +6,16 @@ Nessesary use Unix OS!!!
 ***Development***:
 
 ```cmd
-flask --app opencv_web_app run
+flask --app web_app run
 ```
 Necessary use Unix OS for gunicorn!!!
 
 > pip install gunicorn
 
 ```cmd
-gunicorn --config gunicorn_config.py opencv_web_app:app
+gunicorn --config gunicorn_config.py web_app:app
 ```
 
 For window use waitress!!!
 
 > pip install waitress
-
-```cmd
-
-```
