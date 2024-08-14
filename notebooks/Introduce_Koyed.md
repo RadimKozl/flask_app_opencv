@@ -42,24 +42,24 @@ We will use the register via Github option.
 
 We will select the GitHub option.
 
-<img src="img/koyeb07.png" alt="Koyeb deployment step 1" style="width: 800px;"/>
-<img src="img/koyeb08.png" alt="Koyeb deployment step 1" style="width: 800px;"/>
-<img src="img/koyeb09.png" alt="Koyeb deployment step 1" style="width: 800px;"/>
+<img src="img/koyeb07.png" alt="Koyeb deployment step 3" style="width: 800px;"/>
+<img src="img/koyeb08.png" alt="Koyeb deployment step 4" style="width: 800px;"/>
+<img src="img/koyeb09.png" alt="Koyeb deployment step 5" style="width: 800px;"/>
 
 We select a project to deploy.
 
-<img src="img/koyeb10.png" alt="Koyeb deployment step 1" style="width: 800px;"/>
-<img src="img/koyeb11.png" alt="Koyeb deployment step 1" style="width: 800px;"/>
+<img src="img/koyeb10.png" alt="Koyeb deployment step 6" style="width: 800px;"/>
+<img src="img/koyeb11.png" alt="Koyeb deployment step 7" style="width: 800px;"/>
 
 Now we'll set up a few things, we'll use a ***Dockerfile*** for deployment.
 
-<img src="img/koyeb11_a.png" alt="Koyeb deployment step 5" style="width: 800px;"/>
-<img src="img/koyeb11_b.png" alt="Koyeb deployment step 5" style="width: 800px;"/>
-<img src="img/koyeb11_c.png" alt="Koyeb deployment step 5" style="width: 800px;"/>
+<img src="img/koyeb11_a.png" alt="Koyeb deployment step 8" style="width: 800px;"/>
+<img src="img/koyeb11_b.png" alt="Koyeb deployment step 9" style="width: 800px;"/>
+<img src="img/koyeb11_c.png" alt="Koyeb deployment step 10" style="width: 800px;"/>
 
 Now our web application can be deployed, the application link is at the top…
 
-<img src="img/koyeb12.png" alt="Koyeb deployment step 5" style="width: 800px;"/>
+<img src="img/koyeb12.png" alt="Koyeb deployment step 11" style="width: 800px;"/>
 
 ## ***References and other materials***
 
